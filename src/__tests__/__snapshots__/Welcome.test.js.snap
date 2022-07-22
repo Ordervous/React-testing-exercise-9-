@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    role="heading"
+  >
+    Welcome back, 
+    <span>
+      Test User
+    </span>
+  </h1>
+  <div
+    data-testid="footer"
+  >
+    This page was rendered on 01/01/2021, 12:00:00 am
+  </div>
+</DocumentFragment>
+`;
